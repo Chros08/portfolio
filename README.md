@@ -2,7 +2,7 @@
 # Freecodecamp 5 projects for certification
 
 ## [Mean-Variance-Standard Deviation Calculator](https://github.com/Chros08/Freecodecamp_projects/blob/main/Freecodecamp/freecodecamp_p1/freecodecamp_p1.ipynb)
-* Create a function named calculate() in mean_var_std.py that uses Numpy to output the mean, variance, standard deviation, max, min, and sum of the rows, columns, and elements in a 3 x 3 matrix.fghfghfghfghf
+* Create a function named calculate() in mean_var_std.py that uses Numpy to output the mean, variance, standard deviation, max, min, and sum of the rows, columns, and elements in a 3 x 3 matrix.
 
 ## [ Demographic Data Analyzer](https://github.com/Chros08/Freecodecamp_projects/blob/main/Freecodecamp/freecodecamp_p2/freecodecamp_p2.ipynb)
 * Analyze demographic data using Pandas.Given a dataset of demographic data that was extracted from the 1994 Census database.
