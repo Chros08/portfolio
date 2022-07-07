@@ -1,5 +1,5 @@
 # portfolio
-# Freecodecamp 5 projects for certification
+# Proyectos
 
 ## [Freecodecamp projects](https://github.com/Chros08/Freecodecamp_projects/blob/main/Freecodecamp/)
 * Estos son los proyectos que realizé para obtener la certificación de análisis de datos con Python de Freecodecamp
