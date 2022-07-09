@@ -1,4 +1,5 @@
-
+## [Creación de tablas y sentencias SQL para página web](https://github.com/Chros08/WebApp/tree/master/fiis-dbd211-grupo05-master/pc04/src/main/resources/sql)
+* Colaboré en la creación de una página web funcional mediante la creación de las tablas, así como la inserción de datos a estas y finalmente algunas sentencias SQL para la lógica de la página web.
 
 ## [Freecodecamp projects](https://github.com/Chros08/Freecodecamp_projects/blob/main/Freecodecamp/)
 * Estos son los proyectos que realizé para obtener la certificación de análisis de datos con Python de Freecodecamp
