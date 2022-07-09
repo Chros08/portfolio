@@ -1,4 +1,3 @@
-# portfolioq1
 # Proyectos
 
 ## [Freecodecamp projects](https://github.com/Chros08/Freecodecamp_projects/blob/main/Freecodecamp/)
