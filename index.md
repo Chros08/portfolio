@@ -6,4 +6,4 @@
 
 ## [Proyecto de SQL y PowerBI de un dataset de Ventas](https://github.com/Chros08/SQL_PowerBI)
 * En este proyecto se realizó análisis exploratorio y realización de consultas SQL para luego ayudar en la creación de un reporté básico en PowerBI
-![alt text](/reporte.png)
+![alt text](/portfolio/reporte.png)
