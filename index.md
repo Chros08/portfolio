@@ -1,7 +1,7 @@
 # Portafolio de Christian Cisneros
 
 ## [Anális exploratorio de datos de los viajes en taxi de Lima](https://github.com/Chros08/UberProject/blob/main/ProyectoUber.ipynb)
-* Realizé un anális exploratorio, métodos de limpieza de datos y visualizaciones usando librerias como matplotlib, seaborn, folium, etc.
+* Realicé un anális exploratorio, métodos de limpieza de datos y visualizaciones usando librerias como matplotlib, seaborn, folium, etc.
 
 ![Mapa](/portfolio/assets/mapa.JPG)
 
