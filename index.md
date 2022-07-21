@@ -18,5 +18,8 @@
 
 ![Reporte](/portfolio/assets/reporte.PNG)
 
+## [Proyecto Excel](https://github.com/Chros08/ExcelProjects)
+* Creación de sistema de registro, boleta de pago ,reporte dinámico usando macros en Excel y programa python para creación automática de tablas.
+
 ## [CSGO professional matches data analysis](https://github.com/Chros08/ZeroToPandasProject_and_Assignments/tree/main/zerotopandas-csgo-analysis-project-v-34)
 * Proyecto realizado sobre un los datos de un videojuego llamado Counter Strike
