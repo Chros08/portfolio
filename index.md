@@ -23,4 +23,3 @@
 
 ## [CSGO professional matches data analysis](https://github.com/Chros08/ZeroToPandasProject_and_Assignments/tree/main/zerotopandas-csgo-analysis-project-v-34)
 * Proyecto realizado sobre un los datos de un videojuego llamado Counter Strike
-<iframe title="Salaries - Página 1" width="1920" height="1000" src="https://app.powerbi.com/view?r=eyJrIjoiM2FkYzY3ZTItODBkOS00MTIwLWJkNmItNjc3NTE3ZjJmMGE5IiwidCI6IjAyNDliNzI0LTUwMjMtNDc1Yy1hODU0LWEzNTEzMjc0NTFhNiJ9" frameborder="0" allowFullScreen="true"></iframe>
