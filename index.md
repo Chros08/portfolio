@@ -17,9 +17,9 @@
 
 ![Heatmap](/portfolio/assets/heatmap.png)
 
-## [Proyecto de SQL y PowerBI de un dataset de Ventas](https://github.com/Chros08/SQL_PowerBI)
+## [Proyecto de SQL y PowerBI de un dataset de Ventas](https://app.powerbi.com/view?r=eyJrIjoiMGFmMGU0MjktNGEzMC00ZjhhLTlhMGUtZGQzZDNmMDRhNTQ1IiwidCI6IjAyNDliNzI0LTUwMjMtNDc1Yy1hODU0LWEzNTEzMjc0NTFhNiJ9)
 * En este proyecto se realizó análisis exploratorio y realización de consultas SQL para luego ayudar en la creación de un reporté básico en PowerBI
-
+<iframe title="Ventas_supermercado - Página 1" width="1000" height="600" src="https://app.powerbi.com/view?r=eyJrIjoiMGFmMGU0MjktNGEzMC00ZjhhLTlhMGUtZGQzZDNmMDRhNTQ1IiwidCI6IjAyNDliNzI0LTUwMjMtNDc1Yy1hODU0LWEzNTEzMjc0NTFhNiJ9" frameborder="0" allowFullScreen="true"></iframe>
 ![Reporte](/portfolio/assets/reporte.PNG)
 
 ## [Proyecto Excel](https://github.com/Chros08/ExcelProjects)
