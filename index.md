@@ -8,6 +8,9 @@
 ## [Creación de tablas y sentencias SQL para página web](https://github.com/Chros08/WebApp/tree/master/fiis-dbd211-grupo05-master/pc04/src/main/resources/sql)
 * Colaboré en la creación de una página web funcional mediante la creación de las tablas, así como la inserción de datos a estas y finalmente algunas sentencias SQL para la lógica de la página web.
 
+## [Power BI Data Jobs](https://app.powerbi.com/view?r=eyJrIjoiM2FkYzY3ZTItODBkOS00MTIwLWJkNmItNjc3NTE3ZjJmMGE5IiwidCI6IjAyNDliNzI0LTUwMjMtNDc1Yy1hODU0LWEzNTEzMjc0NTFhNiJ9&pageName=ReportSection)
+* Reporte en Power BI sobre los trabajos relacionado a los datos
+
 ## [Freecodecamp projects](https://github.com/Chros08/Freecodecamp_projects/blob/main/Freecodecamp/)
 * Estos son los proyectos que realizé para obtener la certificación de análisis de datos con Python de Freecodecamp
 
