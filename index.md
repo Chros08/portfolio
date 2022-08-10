@@ -10,6 +10,7 @@
 
 ## [Power BI Data Jobs](https://app.powerbi.com/view?r=eyJrIjoiM2FkYzY3ZTItODBkOS00MTIwLWJkNmItNjc3NTE3ZjJmMGE5IiwidCI6IjAyNDliNzI0LTUwMjMtNDc1Yy1hODU0LWEzNTEzMjc0NTFhNiJ9&pageName=ReportSection)
 * Reporte en Power BI sobre los trabajos relacionado a los datos
+<iframe title="Salaries" width="1440" height="1080" src="https://app.powerbi.com/view?r=eyJrIjoiM2FkYzY3ZTItODBkOS00MTIwLWJkNmItNjc3NTE3ZjJmMGE5IiwidCI6IjAyNDliNzI0LTUwMjMtNDc1Yy1hODU0LWEzNTEzMjc0NTFhNiJ9&pageName=ReportSection" frameborder="0" allowFullScreen="true"></iframe>
 
 ## [Freecodecamp projects](https://github.com/Chros08/Freecodecamp_projects/blob/main/Freecodecamp/)
 * Estos son los proyectos que realizé para obtener la certificación de análisis de datos con Python de Freecodecamp
