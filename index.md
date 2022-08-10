@@ -10,7 +10,7 @@
 
 ## [Power BI Data Jobs](https://app.powerbi.com/view?r=eyJrIjoiM2FkYzY3ZTItODBkOS00MTIwLWJkNmItNjc3NTE3ZjJmMGE5IiwidCI6IjAyNDliNzI0LTUwMjMtNDc1Yy1hODU0LWEzNTEzMjc0NTFhNiJ9&pageName=ReportSection)
 * Reporte en Power BI sobre los trabajos relacionado a los datos
-<iframe title="Salaries" width="1000" height="1000" src="https://app.powerbi.com/view?r=eyJrIjoiM2FkYzY3ZTItODBkOS00MTIwLWJkNmItNjc3NTE3ZjJmMGE5IiwidCI6IjAyNDliNzI0LTUwMjMtNDc1Yy1hODU0LWEzNTEzMjc0NTFhNiJ9&pageName=ReportSection" frameborder="0" allowFullScreen="true"></iframe>
+<iframe title="Salaries" width="1000" height="600" src="https://app.powerbi.com/view?r=eyJrIjoiM2FkYzY3ZTItODBkOS00MTIwLWJkNmItNjc3NTE3ZjJmMGE5IiwidCI6IjAyNDliNzI0LTUwMjMtNDc1Yy1hODU0LWEzNTEzMjc0NTFhNiJ9&pageName=ReportSection" frameborder="0" allowFullScreen="true"></iframe>
 
 ## [Freecodecamp projects](https://github.com/Chros08/Freecodecamp_projects/blob/main/Freecodecamp/)
 * Estos son los proyectos que realizé para obtener la certificación de análisis de datos con Python de Freecodecamp
@@ -19,7 +19,7 @@
 
 ## [Proyecto de SQL y PowerBI de un Supermercado](https://app.powerbi.com/view?r=eyJrIjoiMGFmMGU0MjktNGEzMC00ZjhhLTlhMGUtZGQzZDNmMDRhNTQ1IiwidCI6IjAyNDliNzI0LTUwMjMtNDc1Yy1hODU0LWEzNTEzMjc0NTFhNiJ9)
 * En este proyecto se realizó análisis exploratorio y realización de consultas SQL para luego ayudar en la creación de un reporté básico en PowerBI
-<iframe title="Ventas_supermercado - Página 1" width="1100" height="600" src="https://app.powerbi.com/view?r=eyJrIjoiMGFmMGU0MjktNGEzMC00ZjhhLTlhMGUtZGQzZDNmMDRhNTQ1IiwidCI6IjAyNDliNzI0LTUwMjMtNDc1Yy1hODU0LWEzNTEzMjc0NTFhNiJ9" frameborder="0" allowFullScreen="true"></iframe>
+<iframe title="Ventas_supermercado - Página 1" width="1100" height="900" src="https://app.powerbi.com/view?r=eyJrIjoiMGFmMGU0MjktNGEzMC00ZjhhLTlhMGUtZGQzZDNmMDRhNTQ1IiwidCI6IjAyNDliNzI0LTUwMjMtNDc1Yy1hODU0LWEzNTEzMjc0NTFhNiJ9" frameborder="0" allowFullScreen="true"></iframe>
 
 ## [Proyecto Excel](https://github.com/Chros08/ExcelProjects)
 * Creación de sistema de registro, boleta de pago, reporte dinámico usando macros en Excel y programa python para creación automática de tablas.
