@@ -19,7 +19,7 @@
 
 ## [Proyecto de SQL y PowerBI de un Supermercado](https://app.powerbi.com/view?r=eyJrIjoiMGFmMGU0MjktNGEzMC00ZjhhLTlhMGUtZGQzZDNmMDRhNTQ1IiwidCI6IjAyNDliNzI0LTUwMjMtNDc1Yy1hODU0LWEzNTEzMjc0NTFhNiJ9)
 * En este proyecto se realizó análisis exploratorio y realización de consultas SQL para luego ayudar en la creación de un reporté básico en PowerBI
-<iframe title="Ventas_supermercado - Página 1" width="1000" height="900" src="https://app.powerbi.com/view?r=eyJrIjoiMGFmMGU0MjktNGEzMC00ZjhhLTlhMGUtZGQzZDNmMDRhNTQ1IiwidCI6IjAyNDliNzI0LTUwMjMtNDc1Yy1hODU0LWEzNTEzMjc0NTFhNiJ9" frameborder="0" allowFullScreen="true"></iframe>
+<iframe title="Ventas_supermercado - Página 1" width="1100" height="800" src="https://app.powerbi.com/view?r=eyJrIjoiMGFmMGU0MjktNGEzMC00ZjhhLTlhMGUtZGQzZDNmMDRhNTQ1IiwidCI6IjAyNDliNzI0LTUwMjMtNDc1Yy1hODU0LWEzNTEzMjc0NTFhNiJ9" frameborder="0" allowFullScreen="true"></iframe>
 
 ## [Proyecto Excel](https://github.com/Chros08/ExcelProjects)
 * Creación de sistema de registro, boleta de pago, reporte dinámico usando macros en Excel y programa python para creación automática de tablas.
