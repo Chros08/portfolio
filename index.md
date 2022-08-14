@@ -1,5 +1,8 @@
 # Portafolio de Christian Cisneros
 
+## [Modelos predictivos del abandono de clientes en los bancos](https://github.com/Chros08/Churn_Rate)
+* Realicé la preparación e implementación de modelos de clasificación como regresión logística y bosques aleatorios.
+
 ## [Anális exploratorio de datos de los viajes en taxi en el Perú](https://github.com/Chros08/UberProject/blob/main/ProyectoUber.ipynb)
 * Realicé un anális exploratorio, métodos de limpieza de datos y visualizaciones usando librerias como matplotlib, seaborn, folium, etc.
 
